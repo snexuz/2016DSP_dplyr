@@ -503,7 +503,7 @@ bind_cols(V1, V2)
 
 --- .largecontent
 ## Read data from SQLite
-```{r}
+```{r,echo=TRUE,eval=FALSE}
 library(DBI); library(RSQLite)
 
 # 資料庫路徑
